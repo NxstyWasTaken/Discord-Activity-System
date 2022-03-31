@@ -1,0 +1,21 @@
+{
+    "token" : "",
+    "prefix" : "!",
+    "on-off-duty" : {
+        "on-duty-staff-team-role" : 0,
+        "on-duty-log" : 0,
+        "on-duty-emoji-id" : 0,
+        "off-duty-emoji-id" : 0,
+        "activity-cmd" : 0
+    },
+    "Perms" : {
+        "Admin" : 0,
+        "Staff-Manager" : 0
+    },
+    "Buttons" : {
+        "on-button-id" : "on",
+        "off-button-id" : "off",
+        "activity-button-id" : "activity",
+        "leaderboard-button-id" : "lead"
+    }
+}
