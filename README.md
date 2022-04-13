@@ -11,5 +11,5 @@ Install discord_components
 <!--- [x] slash cmds-->
 - [ ] Slash Commands
 - [ ] Nextcord & Pycord
-- [ ] Clear Activity <img align="center" style="width: 20px; height: 20px;" src="https://user-images.githubusercontent.com/93772558/161136080-4f71c6b6-459f-4b55-98b8-c5c3db17f658.gif">
-
+- [ ] Clear Activity 
+<!--<img align="center" style="width: 20px; height: 20px;" src="https://user-images.githubusercontent.com/93772558/161136080-4f71c6b6-459f-4b55-98b8-c5c3db17f658.gif">-->
